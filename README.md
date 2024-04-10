@@ -7,4 +7,4 @@ Using Scikit-Learn for training an artificial intelligence that analyzes custome
 
 ## How to run
 [Python 3.7.9](https://www.python.org/) is a requirement.  
-- Install requirements with `pip install requirements`
+- Install requirements with `pip install -r requirements.txt`

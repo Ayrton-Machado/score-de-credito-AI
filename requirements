@@ -1,4 +1,0 @@
-pip install scikit-learn as sklearn
-pip install pandas as pd
-pip install ipykernel
-pip install jupyter
