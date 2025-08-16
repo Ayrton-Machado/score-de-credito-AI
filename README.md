@@ -1,10 +1,47 @@
-# Ai customers credit scores
+# AI Análise de Score de Crédito de Cliente
 
-## Project description
-Using Scikit-Learn for training an artificial intelligence that analyzes customers credit scores.
+![GitHub repo size](https://img.shields.io/github/repo-size/Ayrton-Machado/score-de-credito-AI?style=for-the-badge)
 
-## git clone https://github.com/Ayrton-Machado/score-de-credito-AI
 
-## How to run
-[Python 3.7.9](https://www.python.org/) is a requirement.  
-- Install requirements with `pip install -r requirements.txt`
+> Implementação de Scikit-Learn com Pandas para análise dos dados e previsão de score de crédito
+
+### Ajustes e melhorias
+
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
+
+- [ ]  Atualizar Algoritmos de Treinamento para Maior Eficiência
+- [ ]  Incrementar Novos Parâmetros
+- [ ]  Aumentar Acurácia (90+)
+
+## 💻 Pré-requisitos
+
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+
+- Você instalou a versão mais recente do [Python](https://www.python.org/)
+
+## 🚀 Instalando
+
+Clone o Repositório:
+```
+git clone https://github.com/Ayrton-Machado/score-de-credito-AI
+```
+
+Instale Todos os Requisitos
+```
+pip install -r requirements.txt
+```
+
+## ☕ Usando
+
+Para usar, Utilize os botões do Jupyter:
+
+```
+Run All (Para fazer todo o treinamento)
+Run por célula (Para ver o processo por célula)
+```
+
+Deve Retornar:
+
+- Dados
+- Acurácia
+- Previsão
